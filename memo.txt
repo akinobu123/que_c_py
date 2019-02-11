@@ -1,0 +1,3 @@
+pip install posix_ipc
+
+gcc q_send.c -lrt
